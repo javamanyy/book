@@ -1,3 +1,3 @@
-spring3 + struts2 + Mybatis µÄdemo
-µ±Ç°ÎªÔö¼Ójunit²âÊÔºóµÄ²Î¿¼´úÂë
-MybatisÊÇ»ùÓÚÊ¹ÓÃ½Ó¿ÚÃ»ÓĞÊµÏÖÀàµÄ·½·¨ÊµÏÖjunitµÄ²âÊÔ
+spring3 + struts2 + Mybatis çš„demo
+å½“å‰ä¸ºå¢åŠ JUNITæµ‹è¯•åçš„å‚è€ƒä»£ç 
+Mybatisæ˜¯åŸºäºä½¿ç”¨æ¥å£æ²¡æœ‰å®ç°ç±»çš„æ–¹æ³•å®ç°junitçš„æµ‹è¯•
