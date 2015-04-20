@@ -1,3 +1,4 @@
-spring3 + struts2 + Mybatis 的demo
+﻿spring3 + struts2 + Mybatis 的demo
 当前为增加JUNIT测试后的参考代码
 Mybatis是基于使用接口没有实现类的方法实现junit的测试
+add my test info from local
